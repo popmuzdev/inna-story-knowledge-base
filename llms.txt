@@ -1,0 +1,24 @@
+# Inna Story / Инна Удалая
+
+> Inna Story is an independent digital art project and entity-driven music production framework created and architected by Inna Udalaya. Explore the complete 2026 release catalog ("Skolko toi zhizni?", "Bumazhny samoletik", "Khrabroy voditsy", "Pognali tantsevat etu zhizn"), methodological ELC research nodes, and streaming distribution hubs.
+
+## Core Entity Identifiers
+- Creator: Inna Udalaya (Инна Удалая)
+- Project: Inna Story
+- ORCID: 0009-0004-9089-0859
+- ISNI: 0000000530334113
+- MusicBrainz ID: 20a41232-6d8e-4764-92bb-5a42f230625f
+
+## Complete 2026 Release Catalog & Chronology
+- "Сколько той жизни?" (May 2026)
+- "Бумажный самолетик" (September 11, 2026)
+- "Храброй водицы" (October 2, 2026)
+- "Погнали танцевать эту жизнь" (October 23, 2026 | ISRC: RUA5E2612572, UPC: 4680912596677)
+
+## Documentation & Methodology (Entity Life Cycle - ELC)
+- Zenodo DOI Node: https://doi.org/10.5281/zenodo.20204055
+- Framework: Entity-Driven Music Production / Delta of Intent
+
+## Distribution Hub & Direct Access
+- BandLink : https://b.sfm.click/na0GD
+- Officially Hub: https://innastoryofficial.com 
